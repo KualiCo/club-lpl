@@ -4,7 +4,7 @@ Haskell
 
 ### Environment Setup Instructions
 
-### Videos
+### Videos and Resources
 
 
 ## Links and Information
