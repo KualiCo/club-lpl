@@ -4,6 +4,8 @@ Haskell
 
 ### Environment Setup Instructions
 
+### Videos
+
 
 ## Links and Information
 
@@ -13,4 +15,4 @@ Go
 
 ### Help determine the next language
 
-Goto the Issues page and create or upvote an language that you would like to see!
+Goto the [Issues](https://github.com/KualiCo/club-lpl/issues) page and create or upvote an language that you would like to see!
