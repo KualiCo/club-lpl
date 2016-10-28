@@ -1,8 +1,11 @@
-# Current Language
+## Current Language
 
 Haskell
 
-## Environment Setup Instructions
+### Environment Setup Instructions
+
+
+## Links and Information
 
 ### Previous Languages
 
