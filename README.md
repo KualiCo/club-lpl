@@ -11,7 +11,7 @@ Haskell
 
 ### Previous Languages
 
-Go
+* [Go - October](https://github.com/KualiCo/club-lpl/tree/go)
 
 ### Help determine the next language
 
