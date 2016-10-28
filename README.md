@@ -6,6 +6,9 @@ Haskell
 
 ### Videos and Resources
 
+* [Awesome Haskell](https://github.com/krispo/awesome-haskell) - "An auxiliary list of awesome Haskell links, frameworks, libraries and software."
+
+---
 
 ## Links and Information
 
