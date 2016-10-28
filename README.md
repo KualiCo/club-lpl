@@ -2,6 +2,8 @@
 
 Haskell
 
+## Environment Setup Instructions
+
 ### Previous Languages
 
 Go
