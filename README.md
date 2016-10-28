@@ -1,2 +1,9 @@
-# club-lpl
-A collection of all our various Club LPL adventures
+# Current Language
+
+Haskell
+
+# Previous Languages
+
+Go
+
+# Help determine the next language
