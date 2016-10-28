@@ -10,8 +10,6 @@ Haskell
 
 ---
 
-## Links and Information
-
 ### Previous Languages
 
 * [Go - October](https://github.com/KualiCo/club-lpl/tree/go)
