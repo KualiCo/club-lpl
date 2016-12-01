@@ -6,6 +6,8 @@ Ruby
 
 ### Videos and Resources
 
+* [Awesome Ruby](https://github.com/markets/awesome-ruby)
+
 ---
 
 ### Previous Languages
