@@ -1,17 +1,16 @@
 ## Current Language
 
-Haskell
+Ruby
 
 ### Environment Setup Instructions
 
 ### Videos and Resources
 
-* [Awesome Haskell](https://github.com/krispo/awesome-haskell) - "An auxiliary list of awesome Haskell links, frameworks, libraries and software."
-
 ---
 
 ### Previous Languages
 
+* [Haskell - Novemeber](https://github.com/KualiCo/club-lpl/tree/haskell)
 * [Go - October](https://github.com/KualiCo/club-lpl/tree/go)
 
 ### Help determine the next language
